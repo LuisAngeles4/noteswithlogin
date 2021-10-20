@@ -57,7 +57,7 @@ export default function ViewNote() {
         )}
       </Table>
       <div className="button">
-        <Button variant="outline-dark" href="/addhomework">
+        <Button variant="outline-dark" href="/addnote">
           Añade una nota!
         </Button>
       </div>
